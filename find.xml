@@ -33,9 +33,9 @@
       <mask>*.t</mask>
       <mask>*.graphqls</mask>
       <mask>*.graphQL</mask>
-      <mask>*.css</mask>
       <mask>*.json</mask>
       <mask>*.*</mask>
+      <mask>*.css</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
