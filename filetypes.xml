@@ -1,22 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="mjs" type="ECMAScript 6" />
-      <removed_mapping ext="graphql" type="GraphQL" />
-      <removed_mapping ext="graphqls" type="GraphQL Schema" />
       <mapping pattern=".graphqlconfig" type="JSON" />
-      <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="gql2ts" type="PLAIN_TEXT" />
-      <mapping pattern="cli" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="CONTRIBUTION.MD" type="PLAIN_TEXT" />
+      <mapping pattern="cli" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="snap" type="PLAIN_TEXT" />
-      <mapping pattern="Rockerfile" type="TSLint" />
       <mapping ext="conf" type="nginx file type" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Rockerfile" type="TSLint" />
     </extensionMap>
   </component>
 </application>
