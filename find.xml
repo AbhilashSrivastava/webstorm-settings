@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,12 +13,12 @@
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.graphql</mask>
     <mask>*.css</mask>
     <mask>*.*</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
