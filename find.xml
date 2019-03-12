@@ -18,9 +18,9 @@
     <mask>*.css</mask>
     <mask>*.test.ts</mask>
     <mask>*</mask>
-    <mask>*.json</mask>
     <mask>*.gra</mask>
     <mask>*.*</mask>
+    <mask>*.json</mask>
     <mask>*.ts</mask>
   </component>
 </application>
