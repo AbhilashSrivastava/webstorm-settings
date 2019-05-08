@@ -8,6 +8,7 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Rockerfile" type="TSLint" />
